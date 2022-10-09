@@ -1,0 +1,12 @@
+{
+    "description": "Hello World Examples",
+    "public": true,
+    "files": {
+        "hello_world.js": {
+            "content": "conosle.log('Hello World');"
+        },
+        "hello_world_js.txt": {
+            "content": "Run `node hello_world.js` to print Hello World"
+        }
+    }
+}
